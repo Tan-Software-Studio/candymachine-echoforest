@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/static/css/main.d52f93ad.chunk.css",
+    "main.js": "/static/js/main.7e9a993d.chunk.js",
+    "main.js.map": "/static/js/main.7e9a993d.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.5c47200e.js",
+    "runtime-main.js.map": "/static/js/runtime-main.5c47200e.js.map",
+    "static/js/2.e27861bc.chunk.js": "/static/js/2.e27861bc.chunk.js",
+    "static/js/2.e27861bc.chunk.js.map": "/static/js/2.e27861bc.chunk.js.map",
+    "static/js/3.f4f939d7.chunk.js": "/static/js/3.f4f939d7.chunk.js",
+    "static/js/3.f4f939d7.chunk.js.map": "/static/js/3.f4f939d7.chunk.js.map",
+    "static/js/4.c2e20e46.chunk.js": "/static/js/4.c2e20e46.chunk.js",
+    "static/js/4.c2e20e46.chunk.js.map": "/static/js/4.c2e20e46.chunk.js.map",
+    "static/js/5.57b76f38.chunk.js": "/static/js/5.57b76f38.chunk.js",
+    "static/js/5.57b76f38.chunk.js.map": "/static/js/5.57b76f38.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.d52f93ad.chunk.css.map": "/static/css/main.d52f93ad.chunk.css.map",
+    "static/js/2.e27861bc.chunk.js.LICENSE.txt": "/static/js/2.e27861bc.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/static/media/Termina W05 Bold.a5fc8553.ttf",
+    "static/media/index.css": "/static/media/Top_Banner 1 (1).0c2ad658.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5c47200e.js",
+    "static/js/2.e27861bc.chunk.js",
+    "static/css/main.d52f93ad.chunk.css",
+    "static/js/main.7e9a993d.chunk.js"
+  ]
+}
