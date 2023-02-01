@@ -1,28 +1,25 @@
 {
   "files": {
-    "main.css": "/static/css/main.6aa0d155.chunk.css",
-    "main.js": "/static/js/main.d058237c.chunk.js",
-    "main.js.map": "/static/js/main.d058237c.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.ea4ab9e4.js",
-    "runtime-main.js.map": "/static/js/runtime-main.ea4ab9e4.js.map",
-    "static/js/2.7dde074e.chunk.js": "/static/js/2.7dde074e.chunk.js",
-    "static/js/2.7dde074e.chunk.js.map": "/static/js/2.7dde074e.chunk.js.map",
-    "static/js/3.c65358e9.chunk.js": "/static/js/3.c65358e9.chunk.js",
-    "static/js/3.c65358e9.chunk.js.map": "/static/js/3.c65358e9.chunk.js.map",
-    "static/js/4.bd901132.chunk.js": "/static/js/4.bd901132.chunk.js",
-    "static/js/4.bd901132.chunk.js.map": "/static/js/4.bd901132.chunk.js.map",
-    "static/js/5.57b76f38.chunk.js": "/static/js/5.57b76f38.chunk.js",
-    "static/js/5.57b76f38.chunk.js.map": "/static/js/5.57b76f38.chunk.js.map",
+    "main.css": "/static/css/main.0e48b102.css",
+    "main.js": "/static/js/main.146aff30.js",
+    "static/js/415.e8bc0f91.chunk.js": "/static/js/415.e8bc0f91.chunk.js",
+    "static/js/59.65f4746e.chunk.js": "/static/js/59.65f4746e.chunk.js",
+    "static/js/608.9b5da299.chunk.js": "/static/js/608.9b5da299.chunk.js",
+    "static/js/787.f53fb328.chunk.js": "/static/js/787.f53fb328.chunk.js",
+    "static/js/320.5c442f27.chunk.js": "/static/js/320.5c442f27.chunk.js",
+    "static/media/background.png": "/static/media/background.0c2ad6582fbe090d65fb.png",
+    "static/media/Termina W05 Bold.ttf": "/static/media/Termina W05 Bold.a5fc85530cde5525bcd5.ttf",
+    "static/media/Gilroy-Medium.ttf": "/static/media/Gilroy-Medium.23dfbc19380d778f2742.ttf",
     "index.html": "/index.html",
-    "static/css/main.6aa0d155.chunk.css.map": "/static/css/main.6aa0d155.chunk.css.map",
-    "static/js/2.7dde074e.chunk.js.LICENSE.txt": "/static/js/2.7dde074e.chunk.js.LICENSE.txt",
-    "static/media/App.css": "/static/media/Termina W05 Bold.a5fc8553.ttf",
-    "static/media/index.css": "/static/media/Top_Banner 1 (1).0c2ad658.png"
+    "main.0e48b102.css.map": "/static/css/main.0e48b102.css.map",
+    "main.146aff30.js.map": "/static/js/main.146aff30.js.map",
+    "59.65f4746e.chunk.js.map": "/static/js/59.65f4746e.chunk.js.map",
+    "608.9b5da299.chunk.js.map": "/static/js/608.9b5da299.chunk.js.map",
+    "787.f53fb328.chunk.js.map": "/static/js/787.f53fb328.chunk.js.map",
+    "320.5c442f27.chunk.js.map": "/static/js/320.5c442f27.chunk.js.map"
   },
   "entrypoints": [
-    "static/js/runtime-main.ea4ab9e4.js",
-    "static/js/2.7dde074e.chunk.js",
-    "static/css/main.6aa0d155.chunk.css",
-    "static/js/main.d058237c.chunk.js"
+    "static/css/main.0e48b102.css",
+    "static/js/main.146aff30.js"
   ]
 }
