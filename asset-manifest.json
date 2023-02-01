@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.0e48b102.css",
-    "main.js": "/static/js/main.469f796f.js",
+    "main.css": "/static/css/main.12f6c818.css",
+    "main.js": "/static/js/main.789451e5.js",
     "static/js/415.e8bc0f91.chunk.js": "/static/js/415.e8bc0f91.chunk.js",
     "static/js/59.65f4746e.chunk.js": "/static/js/59.65f4746e.chunk.js",
     "static/js/608.9b5da299.chunk.js": "/static/js/608.9b5da299.chunk.js",
@@ -11,15 +11,15 @@
     "static/media/Termina W05 Bold.ttf": "/static/media/Termina W05 Bold.a5fc85530cde5525bcd5.ttf",
     "static/media/Gilroy-Medium.ttf": "/static/media/Gilroy-Medium.23dfbc19380d778f2742.ttf",
     "index.html": "/index.html",
-    "main.0e48b102.css.map": "/static/css/main.0e48b102.css.map",
-    "main.469f796f.js.map": "/static/js/main.469f796f.js.map",
+    "main.12f6c818.css.map": "/static/css/main.12f6c818.css.map",
+    "main.789451e5.js.map": "/static/js/main.789451e5.js.map",
     "59.65f4746e.chunk.js.map": "/static/js/59.65f4746e.chunk.js.map",
     "608.9b5da299.chunk.js.map": "/static/js/608.9b5da299.chunk.js.map",
     "787.f53fb328.chunk.js.map": "/static/js/787.f53fb328.chunk.js.map",
     "320.5c442f27.chunk.js.map": "/static/js/320.5c442f27.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.0e48b102.css",
-    "static/js/main.469f796f.js"
+    "static/css/main.12f6c818.css",
+    "static/js/main.789451e5.js"
   ]
 }
